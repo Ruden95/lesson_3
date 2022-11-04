@@ -1,0 +1,162 @@
+/* ОБНУЛЕНИЕ СТИЛЕЙ */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+
+/*  _______________________________________________________________________ */
+
+/* p {
+	color: red;
+} */
+
+/* span {
+	color: green;
+} */
+
+/* .subblock__text {
+	color:blue;
+} */
+
+/* #block-2-2 {
+	color: red;
+} */
+
+/* .subblock__title {
+	color:green;
+}
+
+.subblock__title {
+	color:red;
+} */
+
+/* _______________________________ Уточнение _______________________________ */
+
+/* p {
+	color: blue;
+}
+
+.item-subblock__text {
+	color:red;
+} */
+
+/* #subblocked {
+	color: red;
+}
+
+p {
+	color: blue;
+}
+
+.item-subblock__text {
+	color:green;
+} */
+
+/* p.subblock__text.president {
+	color: red;
+}
+
+p.subblock__text {
+	color: blue;
+} */
+
+/* div p {
+	color: orange;
+} */
+
+/* .content__block .content__item {
+	color: red;
+} */
+
+/* * {
+	color: red;
+} */
+
+/* .content__block.independent ul {
+	color: red;
+} */
+
+/* .independent p{
+	color: red;
+} */
+
+/* .independent__text + * {
+	color: red;
+} */
+
+/* .content__text ~ span {
+	color: red;
+} */
+
+/* .lukashenko + * {
+	color: red;
+} */
+
+/* #block-1 {
+	color: hotpink;
+} */
+
+footer {
+	background-color: red;
+	font-size: 20px;
+}
+
+/* .independent > div > span {
+	color: red;
+} */
+
+/* .independent > div > span {
+	color: red;
+} */
+
+/* .independent > div span {
+	color:red;
+} */
+
+/* .independent > ul > .independent__item ~ .independent__itema {
+	color:red;
+} */
+
+/* #block-4 > div + a {
+	color: green;
+} */
+
+
+
+/* .content__text {
+	color: red;
+} */
+
+/* .independent__items .age .male .female {
+	color:red;
+} */
+
+/* .independent__items .male, footer {
+	color: blue;
+} */
